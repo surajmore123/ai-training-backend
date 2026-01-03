@@ -1,0 +1,70 @@
+{
+  "Authentication": {
+    "version": 1.4,
+    "last_updated": "2026-01-03 22:00:46",
+    "source_meetings": [
+      "Backend API Authentication Discussion",
+      "Common Issues and Onboarding Questions",
+      "Sprint Meeting",
+      "Quick Notes",
+      "Team Meeting Notes",
+      "Discussed auth and deployment.",
+      "Discussed auth and deployment.",
+      "Discussed auth and deployment.",
+      "Discussed auth and deployment.",
+      "Discussed auth and deployment.",
+      "Discussed auth and deployment.",
+      "hi",
+      "Discussed auth and deployment."
+    ],
+    "hash": "9e442b670e7623f27b355dd824f652eb"
+  },
+  "Onboarding": {
+    "version": 1.0,
+    "last_updated": "2026-01-03 22:00:46",
+    "source_meetings": [
+      "Backend API Authentication Discussion",
+      "Common Issues and Onboarding Questions"
+    ],
+    "hash": "1c5dd484f142a90431968a8ae1321a6c"
+  },
+  "Common Issues": {
+    "version": 1.1,
+    "last_updated": "2026-01-03 22:00:46",
+    "source_meetings": [
+      "Backend API Authentication Discussion",
+      "Common Issues and Onboarding Questions",
+      "Sprint Meeting"
+    ],
+    "hash": "b4cf3c6651ef8134faccbe88761b1a3b"
+  },
+  "Deployment": {
+    "version": 1.4,
+    "last_updated": "2026-01-03 22:00:46",
+    "source_meetings": [
+      "Deployment and Environment Setup Meeting",
+      "Common Issues and Onboarding Questions",
+      "Sprint Meeting",
+      "Quick Notes",
+      "Team Meeting Notes",
+      "Discussed auth and deployment.",
+      "Discussed auth and deployment.",
+      "Discussed auth and deployment.",
+      "Discussed auth and deployment.",
+      "Discussed auth and deployment.",
+      "Discussed auth and deployment.",
+      "hi",
+      "Discussed auth and deployment."
+    ],
+    "hash": "d6b6e76a0bbc2d5931f7012969abd93d"
+  },
+  "Environment Setup": {
+    "version": 1.0,
+    "last_updated": "2026-01-03 22:00:46",
+    "source_meetings": [
+      "Deployment and Environment Setup Meeting",
+      "Common Issues and Onboarding Questions"
+    ],
+    "hash": "8bdd7d705a963172440d4bf43f4d118a"
+  }
+}
